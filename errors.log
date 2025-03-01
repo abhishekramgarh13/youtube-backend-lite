@@ -1,0 +1,2 @@
+2025-03-01 21:54:11,286 - data_ingestion - ERROR - File not found: C:\Users\HP\youtube_backend_lite\src\../../params.yaml
+2025-03-01 21:54:11,287 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'C:\\Users\\HP\\youtube_backend_lite\\src\\../../params.yaml'
